@@ -8,5 +8,7 @@
 
 import Foundation
 
-print("Hello, World!")
-
+var proc = processor()
+proc.doSomething()
+proc.doSomething()
+proc.doSomething()
